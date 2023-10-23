@@ -1,6 +1,9 @@
 # Hello, I'm [Ariunaa] 👋
 
-I'm a [Software Engineer], with a background in [graphic design]. 
+- Software Engineer, with a background in graphic design.
+- Indigenous Buryat-Mongolian woman.
+
+  
 I believe technology should lead us to a cleaner and more sustainable future 🌱.
 
 
