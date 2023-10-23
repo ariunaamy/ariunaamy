@@ -1,4 +1,4 @@
-# Hello, I'm [Ariunaa] 👋
+# Hello, I'm Ariunaa 👋
 
 - Software Engineer, with a background in graphic design.
 - Indigenous Buryat-Mongolian woman.
@@ -7,7 +7,7 @@
 I believe technology should lead us to a cleaner and more sustainable future 🌱.
 
 
- Check out my website [https://personal-blog-ariunaamy.vercel.app/]
+ Check out my [website](https://personal-blog-ariunaamy.vercel.app/)
 
 
 
