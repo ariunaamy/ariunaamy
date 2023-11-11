@@ -8,12 +8,6 @@
   
 I believe technology should lead us to a cleaner and more sustainable future 🌱 (Climate/Clean tech)
 
-
-
-https://github.com/ariunaamy/ariunaamy/assets/115123143/c14048d1-3186-4538-8963-bffd72e684e3
-
-
-
  Check out my [website](https://personal-blog-ariunaamy.vercel.app/)
 
 
