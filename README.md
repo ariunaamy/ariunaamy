@@ -1,22 +1,11 @@
 # Hello, I'm Ariunaa 👋
-
-## About Me
-I'm a Junior Software Developer with a unique journey from the indigenous groups of Siberia to the bustling restaurants of New York, where I supported myself as a bartender while transitioning into tech.
-
-## My Journey 🔥
-The path to learning software engineering has been painful but transformational. I embrace the process of self-teaching, continuously learning through trial and error, and leveraging resources like:
-- [YouTube](https://www.youtube.com/)
-- [LeetCode](https://leetcode.com/)
-- [Udemy](https://www.udemy.com/)
-- Various official documentation
-
-## My Work 👨‍💻
-Over the past year, I have compiled numerous repositories featuring projects that reflect my rigorous training in **JavaScript, React, Next.js**, and backend development with **Express** servers connecting to **PostgreSQL** and **MySQL** databases.
-
-## Explore My Repos 📌
-I’ve highlighted the most impactful projects—please focus on these pinned repos. If you are just starting out, feel free to explore my earlier repositories to witness my growth and gather some insights for your own journey.
-
+I'm a non-traditional web developer with full-stack aspirations. As a member of the indigenous groups in the Siberian region of Russia and a first-generation American immigrant, I value technology that provides access and opportunity, ultimately guiding us toward a sustainable future.
  ![This is an image](https://64.media.tumblr.com/21599ecadc5de1e3e232ec49d7ff2866/tumblr_ompbhuqheK1sn231po7_400.gif)
+My path into software engineering has been painful yet energizing, as the challenges are infinite. I embrace the process of self-teaching, continuously learning through trial and error, and leveraging online resources.
+
+Over the past year, I have compiled numerous repositories featuring projects that reflect my training in **JavaScript, React, Next.js**, and backend development with **Express** servers connecting to **PostgreSQL** and **MySQL** databases.
+
+ 📌I’ve highlighted the most impactful projects—please focus on these pinned repos.
  
  Check out my [website](https://personal-blog-ariunaamy.vercel.app/)
 
