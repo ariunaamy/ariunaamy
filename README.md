@@ -6,8 +6,4 @@ My journey into software engineering has been both painful and energizing. Overc
 
  I embrace the process of self-teaching, continuously learning through trial and error, and leveraging online resources.
 
- 
- Check out my  [website](https://www.ariunaa.dev)
-
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariunaamy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
